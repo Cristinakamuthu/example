@@ -7,3 +7,8 @@ h1{
 h4{
     color: black;
 }
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
